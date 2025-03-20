@@ -4,7 +4,10 @@ import torch
 import os
 import json
 
+PORT = int(os.environ.get("PORT", 10000))
 
+
+st.run(host="0.0.0.0", port=PORT)
 st.set_page_config(page_title="ScholarLens", page_icon="📚", layout="wide")
 
 
