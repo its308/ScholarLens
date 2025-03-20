@@ -178,7 +178,7 @@ if 'search_performed' in st.session_state and st.session_state.search_performed:
                     gen_status.update(label="Response generated using local RAG (Gemini API unavailable)",
                                       state="complete")
                 else:
-                    gen_status.update(label="Response generated with Gemini", state="complete")
+                    gen_status.update(label="Response generated ", state="complete")
 
 
                 st.markdown(response)
