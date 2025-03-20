@@ -596,7 +596,7 @@ def generate_summary(text,summarizer):
 def display_papers(papers):
     print(f'\n top 5 most relevent papers for your query:')
     for i, paper in enumerate(papers):
-        print(f'{i + 1}.Title :{paper['title']}')
+        print(f"{i + 1}.Title : {paper['title']}")
         print(f'      Summary:{generate_summary(paper['summary'])}')
 
 
