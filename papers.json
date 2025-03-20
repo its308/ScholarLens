@@ -1,0 +1,238 @@
+[
+    {
+        "title": "Uncertainty in climate science and climate policy",
+        "authors": [
+            "Jonathan Rougier",
+            "Michel Crucifix"
+        ],
+        "summary": "  This essay, written by a statistician and a climate scientist, describes our\nview of the gap that exists between current practice in mainstream climate\nscience, and the practical needs of policymakers charged with exploring\npossible interventions in the context of climate change. By `mainstream' we\nmean the type of climate science that dominates in universities and research\ncentres, which we will term `academic' climate science, in contrast to `policy'\nclimate science; aspects of this distinction will become clearer in what\nfollows.\n  In a nutshell, we do not think that academic climate science equips climate\nscientists to be as helpful as they might be, when involved in climate policy\nassessment. Partly, we attribute this to an over-investment in high resolution\nclimate simulators, and partly to a culture that is uncomfortable with the\ninherently subjective nature of climate uncertainty.\n",
+        "id": "http://arxiv.org/abs/1411.6878v1",
+        "published": "2014-11-05T20:45:50Z"
+    },
+    {
+        "title": "Climate modification directed by control theory",
+        "authors": [
+            "Wang Liang"
+        ],
+        "summary": "  Climate modification measures to counteract global warming receive some more\nnew attentions in these years. Most current researches only discuss the impact\nof these measures to climate, but how to design such a climate regulator is\nstill unknown. This paper shows the control theory could give the systematic\ndirection for climate modification. But the control analyzing also reveals that\nclimate modifications should only be regarded as a last-ditch measure.\n",
+        "id": "http://arxiv.org/abs/0805.0541v2",
+        "published": "2008-05-07T07:59:02Z"
+    },
+    {
+        "title": "The physics of climate change: simple models in climate science",
+        "authors": [
+            "Nadir Jeevanjee"
+        ],
+        "summary": "  There is a perception that climate science can only be approached with\ncomplex computer simulations. But working climate scientists often use simple\nmodels to understand their simulations and make order-of-magnitude estimates.\nThis article presents some of these simple models with the goal of making\nclimate science more accessible and comprehensible.\n",
+        "id": "http://arxiv.org/abs/1802.02695v2",
+        "published": "2018-02-21T21:08:54Z"
+    },
+    {
+        "title": "You are right. I am ALARMED -- But by Climate Change Counter Movement",
+        "authors": [
+            "Shraey Bhatia",
+            "Jey Han Lau",
+            "Timothy Baldwin"
+        ],
+        "summary": "  The world is facing the challenge of climate crisis. Despite the consensus in\nscientific community about anthropogenic global warming, the web is flooded\nwith articles spreading climate misinformation. These articles are carefully\nconstructed by climate change counter movement (cccm) organizations to\ninfluence the narrative around climate change. We revisit the literature on\nclimate misinformation in social sciences and repackage it to introduce in the\ncommunity of NLP. Despite considerable work in detection of fake news, there is\nno misinformation dataset available that is specific to the domain.of climate\nchange. We try to bridge this gap by scraping and releasing articles with known\nclimate change misinformation.\n",
+        "id": "http://arxiv.org/abs/2004.14907v1",
+        "published": "2020-04-30T16:06:02Z"
+    },
+    {
+        "title": "Financial climate risk: a review of recent advances and key challenges",
+        "authors": [
+            "Victor Cardenas"
+        ],
+        "summary": "  The document provides an overview of financial climate risks. It delves into\nhow climate change impacts the global financial system, distinguishing between\nphysical risks (such as extreme weather events) and transition risks (stemming\nfrom policy changes and economic transitions towards low carbon technologies).\nThe paper underlines the complexity of accurately defining financial climate\nrisk, citing the integration of climate science with financial risk analysis as\na significant challenge. The paper highlights the pivotal role of microfinance\ninstitutions (MFIs) in addressing financial climate risk, especially for\npopulations vulnerable to climate change. The document emphasizes the\nimportance of updating risk management practices within MFIs to explicitly\ninclude climate risk assessments and suggests leveraging technology to improve\nthese practices.\n",
+        "id": "http://arxiv.org/abs/2404.07331v1",
+        "published": "2024-04-10T20:17:43Z"
+    },
+    {
+        "title": "ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning",
+        "authors": [
+            "Julia Kaltenborn",
+            "Charlotte E. E. Lange",
+            "Venkatesh Ramesh",
+            "Philippe Brouillard",
+            "Yaniv Gurwicz",
+            "Chandni Nagda",
+            "Jakob Runge",
+            "Peer Nowack",
+            "David Rolnick"
+        ],
+        "summary": "  Climate models have been key for assessing the impact of climate change and\nsimulating future climate scenarios. The machine learning (ML) community has\ntaken an increased interest in supporting climate scientists' efforts on\nvarious tasks such as climate model emulation, downscaling, and prediction\ntasks. Many of those tasks have been addressed on datasets created with single\nclimate models. However, both the climate science and ML communities have\nsuggested that to address those tasks at scale, we need large, consistent, and\nML-ready climate model datasets. Here, we introduce ClimateSet, a dataset\ncontaining the inputs and outputs of 36 climate models from the Input4MIPs and\nCMIP6 archives. In addition, we provide a modular dataset pipeline for\nretrieving and preprocessing additional climate models and scenarios. We\nshowcase the potential of our dataset by using it as a benchmark for ML-based\nclimate model emulation. We gain new insights about the performance and\ngeneralization capabilities of the different ML models by analyzing their\nperformance across different climate models. Furthermore, the dataset can be\nused to train an ML emulator on several climate models instead of just one.\nSuch a \"super emulator\" can quickly project new climate change scenarios,\ncomplementing existing scenarios already provided to policymakers. We believe\nClimateSet will create the basis needed for the ML community to tackle\nclimate-related tasks at scale.\n",
+        "id": "http://arxiv.org/abs/2311.03721v1",
+        "published": "2023-11-07T04:55:36Z"
+    },
+    {
+        "title": "Hurricanes Increase Climate Change Conversations on Twitter",
+        "authors": [
+            "Maddalena Torricelli",
+            "Max Falkenberg",
+            "Alessandro Galeazzi",
+            "Fabiana Zollo",
+            "Walter Quattrociocchi",
+            "Andrea Baronchelli"
+        ],
+        "summary": "  The public understanding of climate change plays a critical role in\ntranslating climate science into climate action. In the public discourse,\nclimate impacts are often discussed in the context of extreme weather events.\nHere, we analyse 65 million Twitter posts and 240 thousand news media articles\nrelated to 18 major hurricanes from 2010 to 2022 to clarify how hurricanes\nimpact the public discussion around climate change. First, we analyse news\ncontent and show that climate change is the most prominent non-hurricane\nspecific topic discussed by the news media in relation to hurricanes. Second,\nwe perform a comparative analysis between reliable and questionable news media\noutlets, finding that the language around climate change varies between news\nmedia providers. Finally, using geolocated data, we show that accounts in\nregions affected by hurricanes discuss climate change at a significantly higher\nrate than accounts in unaffected areas, with references to climate change\nincreasing by, on average, 80% after impact, and up to 200% for the largest\nhurricanes. Our findings demonstrate how hurricanes have a key impact on the\npublic awareness of climate change.\n",
+        "id": "http://arxiv.org/abs/2305.07529v1",
+        "published": "2023-05-12T14:46:26Z"
+    },
+    {
+        "title": "Link Climate: An Interoperable Knowledge Graph Platform for Climate Data",
+        "authors": [
+            "Jiantao Wu",
+            "Fabrizio Orlandi",
+            "Declan O'Sullivan",
+            "Soumyabrata Dev"
+        ],
+        "summary": "  Climate science has become more ambitious in recent years as global awareness\nabout the environment has grown. To better understand climate, historical\nclimate (e.g. archived meteorological variables such as temperature, wind,\nwater, etc.) and climate-related data (e.g. geographical features and human\nactivities) are widely used by today's climate research to derive models for an\nexplainable climate change and its effects. However, such data sources are\noften dispersed across a multitude of disconnected data silos on the Web.\nMoreover, there is a lack of advanced climate data platforms to enable\nmulti-source heterogeneous climate data analysis, therefore, researchers must\nface a stern challenge in collecting and analyzing multi-source data. In this\npaper, we address this problem by proposing a climate knowledge graph for the\nintegration of multiple climate data and other data sources into one service,\nleveraging Web technologies (e.g. HTTP) for multi-source climate data analysis.\nThe proposed knowledge graph is primarily composed of data from the National\nOceanic and Atmospheric Administration's daily climate summaries,\nOpenStreetMap, and Wikidata, and it supports joint data queries on these widely\nused databases. This paper shows, with a use case in Ireland and the United\nKingdom, how climate researchers could benefit from this platform as it allows\nthem to easily integrate datasets from different domains and geographical\nlocations.\n",
+        "id": "http://arxiv.org/abs/2210.16050v1",
+        "published": "2022-10-28T10:52:50Z"
+    },
+    {
+        "title": "A large-scale bibliometric analysis of global climate change research\n  between 2001 and 2018",
+        "authors": [
+            "Hui-Zhen Fu",
+            "Ludo Waltman"
+        ],
+        "summary": "  Global climate change is attracting widespread scientific, political, and\npublic attention owing to the involvement of international initiatives such as\nthe Paris Agreement and the Intergovernmental Panel on Climate Change. We\npresent a large-scale bibliometric analysis based on approximately 120,000\nclimate change publications between 2001 and 2018 to examine how climate change\nis studied in scientific research. Our analysis provides an overview of\nscientific knowledge, shifts of research hotspots, global geographical\ndistribution of research, and focus of individual countries. In our analysis,\nwe identify five key fields in climate change research: physical sciences,\npaleoclimatology, climate-change ecology, climate technology, and climate\npolicy. We draw the following key conclusions: (1) Over the investigated time\nperiod, the focus of climate change research has shifted from understanding the\nclimate system toward climate technologies and policies, such as efficient\nenergy use and legislation. (2) There is an imbalance in scientific production\nbetween developed and developing countries. (3) Geography, national demands,\nand national strategies have been important drivers that influence the research\ninterests and concerns of researchers in different countries. Our study can be\nused by researchers and policy makers to reflect on the directions in which\nclimate change research is developing and discuss priorities for future\nresearch.\n",
+        "id": "http://arxiv.org/abs/2107.08214v1",
+        "published": "2021-07-17T10:28:28Z"
+    },
+    {
+        "title": "Towards Specialized Supercomputers for Climate Sciences: Computational\n  Requirements of the Icosahedral Nonhydrostatic Weather and Climate Model",
+        "authors": [
+            "Torsten Hoefler",
+            "Alexandru Calotoiu",
+            "Anurag Dipankar",
+            "Thomas Schulthess",
+            "Xavier Lapillonne",
+            "Oliver Fuhrer"
+        ],
+        "summary": "  We discuss the computational challenges and requirements for high-resolution\nclimate simulations using the Icosahedral Nonhydrostatic Weather and Climate\nModel (ICON). We define a detailed requirements model for ICON which emphasizes\nthe need for specialized supercomputers to accurately predict climate change\nimpacts and extreme weather events. Based on the requirements model, we outline\ncomputational demands for km-scale simulations, and suggests machine learning\ntechniques to enhance model accuracy and efficiency. Our findings aim to guide\nthe design of future supercomputers for advanced climate science.\n",
+        "id": "http://arxiv.org/abs/2405.13043v1",
+        "published": "2024-05-18T08:03:31Z"
+    },
+    {
+        "title": "Divergent Perspectives on Expert Disagreement: Preliminary Evidence from\n  Climate Science, Climate Policy, Astrophysics, and Public Opinion",
+        "authors": [
+            "James R. Beebe",
+            "Maria Baghramian",
+            "Luke O'C. Drury",
+            "Finnur Dellsen"
+        ],
+        "summary": "  We report the results of an exploratory study that examines the judgments of\nclimate scientists, climate policy experts, astrophysicists, and non-experts (N\n= 3,367) about the factors that contribute to the creation and persistence of\ndisagreement within climate science and astrophysics. We found that, as\ncompared to educated non-experts, climate experts believe that there is less\ndisagreement within climate science about climate change and that\nmethodological factors and personal or institutional biases play less\nsignificant roles in generating existing disagreements than is commonly\nreported or assumed. We also found that, commensurate with the greater inherent\nuncertainty and data lacunae in their field, astrophysicists working on cosmic\nrays were generally more willing to acknowledge expert disagreement, more open\nto the idea that a set of data can have multiple valid interpretations, and\ngenerally less quick to dismiss someone articulating a non-standard view as\nnon-expert, than climate scientists.\n",
+        "id": "http://arxiv.org/abs/1802.01889v1",
+        "published": "2018-02-06T11:43:03Z"
+    },
+    {
+        "title": "A Climate Change Vulnerability Assessment Framework: A Spatial Approach",
+        "authors": [
+            "Claudia C\u00e1ceres",
+            "Yan Li",
+            "Brian Hilton"
+        ],
+        "summary": "  Climate change is affecting every known society, especially for small farmers\nin Low-Income Countries because they depend heavily on rain, seasonality\npatterns, and known temperature ranges. To build climate change resilient\ncommunities among rural farmers, the first step is to understand the impact of\nclimate change on the population. This paper proposes a Climate Change\nVulnerability Assessment Framework (CCVAF) to assess climate change\nvulnerabilities among rural farmers. The CCVAF framework uses information and\ncommunication technology (ICT) to assess climate change vulnerabilities among\nrural farmers by integrating both community level and individual household\nlevel indicators. The CCVAF was instantiated into a GIS-based web application\nnamed THRIVE for different decision-makers to better assess how climate change\nis affecting rural farmers in Western Honduras. Qualitative evaluation of the\nTHRIVE showed that it is an innovative and useful tool. The CCVAF contributes\nto not only the knowledge base of the climate change vulnerability assessment\nbut also the design science literature by providing guidelines to design a\nclass of climate change vulnerability assessment solutions.\n",
+        "id": "http://arxiv.org/abs/2108.09762v1",
+        "published": "2021-08-22T15:50:55Z"
+    },
+    {
+        "title": "Leveraging machine learning to enhance climate models: a review",
+        "authors": [
+            "Ahmed Elsayed",
+            "Shrouk Wally",
+            "Islam Alkabbany",
+            "Asem Ali",
+            "Aly Farag"
+        ],
+        "summary": "  Recent achievements in machine learning (Ml) have had a significant impact on\nvarious fields, including climate science. Climate modeling is very important\nand plays a crucial role in shaping the decisions of governments and\nindividuals in mitigating the impact of climate change. Climate change poses a\nserious threat to humanity, however, current climate models are limited by\ncomputational costs, uncertainties, and biases, affecting their prediction\naccuracy. The vast amount of climate data generated by satellites, radars, and\nearth system models (ESMS) poses a significant challenge. ML techniques can be\neffectively employed to analyze this data and extract valuable insights that\naid in our understanding of the earth climate. This review paper focuses on how\nml has been utilized in the last 5 years to boost the current state-of-the-art\nclimate models. We invite the ml community to join in the global effort to\naccurately model the earth climate by collaborating with other fields to\nleverage ml as a powerful tool in this endeavor.\n",
+        "id": "http://arxiv.org/abs/2311.09413v1",
+        "published": "2023-11-15T22:30:32Z"
+    },
+    {
+        "title": "RAIN: Reinforcement Algorithms for Improving Numerical Weather and\n  Climate Models",
+        "authors": [
+            "Pritthijit Nath",
+            "Henry Moss",
+            "Emily Shuckburgh",
+            "Mark Webb"
+        ],
+        "summary": "  This study explores integrating reinforcement learning (RL) with idealised\nclimate models to address key parameterisation challenges in climate science.\nCurrent climate models rely on complex mathematical parameterisations to\nrepresent sub-grid scale processes, which can introduce substantial\nuncertainties. RL offers capabilities to enhance these parameterisation\nschemes, including direct interaction, handling sparse or delayed feedback,\ncontinuous online learning, and long-term optimisation. We evaluate the\nperformance of eight RL algorithms on two idealised environments: one for\ntemperature bias correction, another for radiative-convective equilibrium (RCE)\nimitating real-world computational constraints. Results show different RL\napproaches excel in different climate scenarios with exploration algorithms\nperforming better in bias correction, while exploitation algorithms proving\nmore effective for RCE. These findings support the potential of RL-based\nparameterisation schemes to be integrated into global climate models, improving\naccuracy and efficiency in capturing complex climate dynamics. Overall, this\nwork represents an important first step towards leveraging RL to enhance\nclimate model accuracy, critical for improving climate understanding and\npredictions. Code accessible at https://github.com/p3jitnath/climate-rl.\n",
+        "id": "http://arxiv.org/abs/2408.16118v2",
+        "published": "2024-10-10T23:24:01Z"
+    },
+    {
+        "title": "A Survey on Exploratory Spatiotemporal Visual Analytics Approaches for\n  Climate Science",
+        "authors": [
+            "Abdullah-Al-Raihan Nayeem",
+            "Dongyun Han",
+            "Huikyo Lee",
+            "Donghoon Kim",
+            "Daniel Feldman",
+            "William J. Tolone",
+            "Daniel Crichton",
+            "Isaac Cho"
+        ],
+        "summary": "  Climate science produces a wealth of complex, high-dimensional, multivariate\ndata from observations and numerical models. These data are critical for\nunderstanding climate changes and their socioeconomic impacts. Climate\nscientists are continuously evaluating output from numerical models against\nobservations. This model evaluation process provides useful guidance to improve\nthe numerical models and subsequent climate projections. Exploratory visual\nanalytics systems possess the potential to significantly reduce the burden on\nscientists for traditional spatiotemporal analyses. In addition, technology and\ninfrastructure advancements are further facilitating broader access to climate\ndata. Climate scientists today can access climate data in distributed analytic\nenvironments and render exploratory visualizations for analyses. Efforts are\nongoing to optimize the computational efficiency of spatiotemporal analyses to\nenable efficient exploration of massive data. These advances present further\nopportunities for the visualization community to innovate over the full\nlandscape of challenges and requirements raised by scientists. In this report,\nwe provide a comprehensive review of the challenges, requirements, and current\napproaches for exploratory spatiotemporal visual analytics solutions for\nclimate data. We categorize the visual analytic techniques, systems, and tools\npresented in the relevant literature based on task requirements, data sources,\nstatistical techniques, interaction methods, visualization techniques,\nperformance evaluation methods, and application domains. Moreover, our analytic\nreview identifies trends, limitations, and key challenges in visual analysis.\nThis report will advance future research activities in climate visualizations\nand enables the end-users of climate data to identify effective climate change\nmitigation strategies.\n",
+        "id": "http://arxiv.org/abs/2407.21199v1",
+        "published": "2024-07-30T21:23:14Z"
+    },
+    {
+        "title": "Climate Change and Open Science",
+        "authors": [
+            "Ian Percival"
+        ],
+        "summary": "  Obtaining reliable answers to the major scientific questions raised by\nclimate change in time to take appropriate action gives added urgency to the\nopen access program.\n",
+        "id": "http://arxiv.org/abs/1308.5533v1",
+        "published": "2013-08-26T10:13:00Z"
+    },
+    {
+        "title": "Theoretical tools for understanding the climate crisis from Hasselmann's\n  program and beyond",
+        "authors": [
+            "Valerio Lucarini",
+            "Micka\u00ebl Chekroun"
+        ],
+        "summary": "  Klaus Hasselmann's revolutionary intuition in climate science was to take\nadvantage of the stochasticity associated with fast weather processes to probe\nthe slow dynamics of the climate system. This has led to fundamentally new ways\nto study the response of climate models to perturbations, and to perform\ndetection and attribution for climate change signals. Hasselmann's program has\nbeen extremely influential in climate science and beyond. We first summarise\nthe main aspects of such a program using modern concepts and tools of\nstatistical physics and applied mathematics. We then provide an overview of\nsome promising scientific perspectives that might better clarify the science\nbehind the climate crisis and that stem from Hasselmann's ideas. We show how to\nperform rigorous model reduction by constructing parametrizations in systems\nthat do not necessarily feature a time-scale separation between unresolved and\nresolved processes. We propose a general framework for explaining the\nrelationship between climate variability and climate change, and for performing\nclimate change projections. This leads us seamlessly to explain some key\ngeneral aspects of climatic tipping points. Finally, we show that response\ntheory provides a solid framework supporting optimal fingerprinting methods for\ndetection and attribution.\n",
+        "id": "http://arxiv.org/abs/2303.12009v3",
+        "published": "2023-09-07T12:37:31Z"
+    },
+    {
+        "title": "How relevant is climate change research for climate change policy? An\n  empirical analysis based on Overton data",
+        "authors": [
+            "Lutz Bornmann",
+            "Robin Haunschild",
+            "Kevin Boyack",
+            "Werner Marx",
+            "Jan C. Minx"
+        ],
+        "summary": "  Climate change is an ongoing topic in nearly all areas of society since many\nyears. A discussion of climate change without referring to scientific results\nis not imaginable. This is especially the case for policies since action on the\nmacro scale is required to avoid costly consequences for society. In this\nstudy, we deal with the question of how research on climate change and policy\nare connected. In 2019, the new Overton database of policy documents was\nreleased including links to research papers that are cited by policy documents.\nThe use of results and recommendations from research on climate change might be\nreflected in citations of scientific papers in policy documents. Although we\nsuspect a lot of uncertainty related to the coverage of policy documents in\nOverton, there seems to be an impact of international climate policy cycles on\npolicy document publication. We observe local peaks in climate policy documents\naround major decisions in international climate diplomacy. Our results point\nout that IGOs and think tanks -- with a focus on climate change -- have\npublished more climate change policy documents than expected. We found that\nclimate change papers that are cited in climate change policy documents\nreceived significantly more citations on average than climate change papers\nthat are not cited in these documents. Both areas of society (science and\npolicy) focus on similar climate change research fields: biology, earth\nsciences, engineering, and disease sciences. Based on these and other empirical\nresults in this study, we propose a simple model of policy impact considering a\nchain of different document types: the chain starts with scientific assessment\nreports (systematic reviews) that lead via science communication documents\n(policy briefs, policy reports or plain language summaries) and government\nreports to legislative documents.\n",
+        "id": "http://arxiv.org/abs/2203.05358v1",
+        "published": "2022-03-10T13:18:11Z"
+    },
+    {
+        "title": "CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims",
+        "authors": [
+            "Thomas Diggelmann",
+            "Jordan Boyd-Graber",
+            "Jannis Bulian",
+            "Massimiliano Ciaramita",
+            "Markus Leippold"
+        ],
+        "summary": "  We introduce CLIMATE-FEVER, a new publicly available dataset for verification\nof climate change-related claims. By providing a dataset for the research\ncommunity, we aim to facilitate and encourage work on improving algorithms for\nretrieving evidential support for climate-specific claims, addressing the\nunderlying language understanding challenges, and ultimately help alleviate the\nimpact of misinformation on climate change. We adapt the methodology of FEVER\n[1], the largest dataset of artificially designed claims, to real-life claims\ncollected from the Internet. While during this process, we could rely on the\nexpertise of renowned climate scientists, it turned out to be no easy task. We\ndiscuss the surprising, subtle complexity of modeling real-world\nclimate-related claims within the \\textsc{fever} framework, which we believe\nprovides a valuable challenge for general natural language understanding. We\nhope that our work will mark the beginning of a new exciting long-term joint\neffort by the climate science and AI community.\n",
+        "id": "http://arxiv.org/abs/2012.00614v2",
+        "published": "2021-01-02T16:07:48Z"
+    },
+    {
+        "title": "Enhancing LLMs for Governance with Human Oversight: Evaluating and\n  Aligning LLMs on Expert Classification of Climate Misinformation for\n  Detecting False or Misleading Claims about Climate Change",
+        "authors": [
+            "Mowafak Allaham",
+            "Ayse D. Lokmanoglu",
+            "P. Sol Hart",
+            "Erik C. Nisbet"
+        ],
+        "summary": "  Climate misinformation is a problem that has the potential to be\nsubstantially aggravated by the development of Large Language Models (LLMs). In\nthis study we evaluate the potential for LLMs to be part of the solution for\nmitigating online dis/misinformation rather than the problem. Employing a\npublic expert annotated dataset and a curated sample of social media content we\nevaluate the performance of proprietary vs. open source LLMs on climate\nmisinformation classification task, comparing them to existing climate-focused\ncomputer-assisted tools and expert assessments. Results show (1) open-source\nmodels substantially under-perform in classifying climate misinformation\ncompared to proprietary models, (2) existing climate-focused computer-assisted\ntools leveraging expert-annotated datasets continues to outperform many of\nproprietary models, including GPT-4o, and (3) demonstrate the efficacy and\ngeneralizability of fine-tuning GPT-3.5-turbo on expert annotated dataset in\nclassifying claims about climate change at the equivalency of climate change\nexperts with over 20 years of experience in climate communication. These\nfindings highlight 1) the importance of incorporating human-oversight, such as\nincorporating expert-annotated datasets in training LLMs, for governance tasks\nthat require subject-matter expertise like classifying climate misinformation,\nand 2) the potential for LLMs in facilitating civil society organizations to\nengage in various governance tasks such as classifying false or misleading\nclaims in domains beyond climate change such as politics and health science.\n",
+        "id": "http://arxiv.org/abs/2501.13802v2",
+        "published": "2025-03-09T16:39:06Z"
+    }
+]
