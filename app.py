@@ -3,11 +3,12 @@ import main
 import torch
 import os
 import json
+import requests
 
-PORT = int(os.environ.get("PORT", 10000))
 
 
-st.run(host="0.0.0.0", port=PORT)
+
+
 st.set_page_config(page_title="ScholarLens", page_icon="📚", layout="wide")
 
 
@@ -61,7 +62,7 @@ with st.sidebar:
 
     st.header("Credits")
     st.write("Built with Streamlit, Hugging Face, and Google Gemini")
-    st.write("© 2024")
+
 
 
 search_col1, search_col2 = st.columns([3, 1])
@@ -118,15 +119,20 @@ if search_button and topic:
 if 'search_performed' in st.session_state and st.session_state.search_performed:
     st.header(f"Top 5 Papers on '{st.session_state.topic}'")
 
-
     tabs = st.tabs([f"Paper {i + 1}" for i in range(len(st.session_state.relevant_papers))])
-
 
     for i, (tab, paper) in enumerate(zip(tabs, st.session_state.relevant_papers)):
         with tab:
             st.subheader(paper['title'])
             st.write(f"**Authors:** {', '.join(paper['authors'])}")
+            # Extract paper ID from the full ID URL
+            paper_id = paper['id'].split('/')[-1]
 
+            # Generate the correct URLs
+            pdf_url = f"https://arxiv.org/pdf/{paper_id}.pdf"
+            arxiv_abstract_url = f"https://arxiv.org/abs/{paper_id}"
+
+            st.markdown(f"[View Full Paper (PDF)]({pdf_url})", unsafe_allow_html=True)
 
             col1, col2 = st.columns(2)
             with col1:
@@ -137,12 +143,12 @@ if 'search_performed' in st.session_state and st.session_state.search_performed:
                 summary = main.generate_summary(paper['summary'], st.session_state.summarizer)
                 st.write(summary)
 
-
             keywords = main.extract_keywords(paper['summary'])
             st.write(f"**Keywords:** {', '.join(keywords)}")
 
+            st.markdown(f"[View Full Abstract on ArXiv]({arxiv_abstract_url})", unsafe_allow_html=True)
 
-    st.header("Ask Questions")
+
 
     query_col1, query_col2 = st.columns([1, 3])
 
