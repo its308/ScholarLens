@@ -1,238 +1,238 @@
 [
     {
-        "title": "Uncertainty in climate science and climate policy",
+        "title": "Machine Learning Applications In Healthcare: The State Of Knowledge and\n  Future Directions",
         "authors": [
-            "Jonathan Rougier",
-            "Michel Crucifix"
+            "Mrinmoy Roy",
+            "Sarwar J. Minar",
+            "Porarthi Dhar",
+            "A T M Omor Faruq"
         ],
-        "summary": "  This essay, written by a statistician and a climate scientist, describes our\nview of the gap that exists between current practice in mainstream climate\nscience, and the practical needs of policymakers charged with exploring\npossible interventions in the context of climate change. By `mainstream' we\nmean the type of climate science that dominates in universities and research\ncentres, which we will term `academic' climate science, in contrast to `policy'\nclimate science; aspects of this distinction will become clearer in what\nfollows.\n  In a nutshell, we do not think that academic climate science equips climate\nscientists to be as helpful as they might be, when involved in climate policy\nassessment. Partly, we attribute this to an over-investment in high resolution\nclimate simulators, and partly to a culture that is uncomfortable with the\ninherently subjective nature of climate uncertainty.\n",
-        "id": "http://arxiv.org/abs/1411.6878v1",
-        "published": "2014-11-05T20:45:50Z"
+        "summary": "  Detection of easily missed hidden patterns with fast processing power makes\nmachine learning (ML) indispensable to today's healthcare system. Though many\nML applications have already been discovered and many are still under\ninvestigation, only a few have been adopted by current healthcare systems. As a\nresult, there exists an enormous opportunity in healthcare system for ML but\ndistributed information, scarcity of properly arranged and easily explainable\ndocumentation in related sector are major impede which are making ML\napplications difficult to healthcare professionals. This study aimed to gather\nML applications in different areas of healthcare concisely and more effectively\nso that necessary information can be accessed immediately with relevant\nreferences. We divided our study into five major groups: community level work,\nrisk management/ preventive care, healthcare operation management, remote care,\nand early detection. Dividing these groups into subgroups, we provided relevant\nreferences with description in tabular form for quick access. Our objective is\nto inform people about ML applicability in healthcare industry, reduce the\nknowledge gap of clinicians about the ML applications and motivate healthcare\nprofessionals towards more machine learning based healthcare system.\n",
+        "id": "http://arxiv.org/abs/2307.14067v1",
+        "published": "2023-07-26T09:34:34Z"
     },
     {
-        "title": "Climate modification directed by control theory",
+        "title": "Probabilistic Machine Learning for Healthcare",
         "authors": [
-            "Wang Liang"
+            "Irene Y. Chen",
+            "Shalmali Joshi",
+            "Marzyeh Ghassemi",
+            "Rajesh Ranganath"
         ],
-        "summary": "  Climate modification measures to counteract global warming receive some more\nnew attentions in these years. Most current researches only discuss the impact\nof these measures to climate, but how to design such a climate regulator is\nstill unknown. This paper shows the control theory could give the systematic\ndirection for climate modification. But the control analyzing also reveals that\nclimate modifications should only be regarded as a last-ditch measure.\n",
-        "id": "http://arxiv.org/abs/0805.0541v2",
-        "published": "2008-05-07T07:59:02Z"
+        "summary": "  Machine learning can be used to make sense of healthcare data. Probabilistic\nmachine learning models help provide a complete picture of observed data in\nhealthcare. In this review, we examine how probabilistic machine learning can\nadvance healthcare. We consider challenges in the predictive model building\npipeline where probabilistic models can be beneficial including calibration and\nmissing data. Beyond predictive models, we also investigate the utility of\nprobabilistic machine learning models in phenotyping, in generative models for\nclinical use cases, and in reinforcement learning.\n",
+        "id": "http://arxiv.org/abs/2009.11087v1",
+        "published": "2020-09-23T12:14:05Z"
     },
     {
-        "title": "The physics of climate change: simple models in climate science",
+        "title": "Reliable and Resilient AI and IoT-based Personalised Healthcare\n  Services: A Survey",
         "authors": [
-            "Nadir Jeevanjee"
+            "Najma Taimoor",
+            "Semeen Rehman"
         ],
-        "summary": "  There is a perception that climate science can only be approached with\ncomplex computer simulations. But working climate scientists often use simple\nmodels to understand their simulations and make order-of-magnitude estimates.\nThis article presents some of these simple models with the goal of making\nclimate science more accessible and comprehensible.\n",
-        "id": "http://arxiv.org/abs/1802.02695v2",
-        "published": "2018-02-21T21:08:54Z"
+        "summary": "  Recent technological and economic developments have transformed the\nhealthcare sector towards more personalized and IoT-based healthcare services.\nThese services are realized through control and monitoring applications that\nare typically developed using artificial intelligence/machine learning-based\nalgorithms, which play a significant role in highlighting the efficiency of\ntraditional healthcare systems. Current personalized healthcare services are\ndedicated to a specific environment to support technological personalization.\nHowever, they are unable to consider different interrelated health conditions,\nleading to inappropriate diagnoses and affecting sustainability and the\nlong-term health of patients. To this end, current Healthcare 5.0 technology\nhas evolved that supersede previous healthcare technologies. The goal of\nhealthcare 5.0 is to achieve an autonomous healthcare service, that takes into\naccount the interdependent effect of different health conditions of a patient.\nThis paper conducts a comprehensive survey on personalized healthcare services.\nIn particular, we first present an overview of key requirements of\ncomprehensive personalized healthcare services in modern healthcare Internet of\nThings (HIoT), including the definition of personalization and an example use\ncase scenario as a representative for modern HIoT. Second, we explored a\nfundamental three-layer architecture for IoT-based healthcare systems using AI\nand non-AI-based approaches, considering key requirements for CPHS followed by\ntheir strengths and weaknesses in the frame of personalized healthcare\nservices. Third, we highlighted different security threats against each layer\nof IoT architecture along with the possible AI and non-AI-based solutions.\nFinally, we propose a methodology to develop reliable, resilient, and\npersonalized healthcare services that address the identified weaknesses of\nexisting approaches.\n",
+        "id": "http://arxiv.org/abs/2209.05457v1",
+        "published": "2022-08-29T23:14:02Z"
     },
     {
-        "title": "You are right. I am ALARMED -- But by Climate Change Counter Movement",
+        "title": "Assessing Fairness in Classification Parity of Machine Learning Models\n  in Healthcare",
         "authors": [
-            "Shraey Bhatia",
-            "Jey Han Lau",
-            "Timothy Baldwin"
+            "Ming Yuan",
+            "Vikas Kumar",
+            "Muhammad Aurangzeb Ahmad",
+            "Ankur Teredesai"
         ],
-        "summary": "  The world is facing the challenge of climate crisis. Despite the consensus in\nscientific community about anthropogenic global warming, the web is flooded\nwith articles spreading climate misinformation. These articles are carefully\nconstructed by climate change counter movement (cccm) organizations to\ninfluence the narrative around climate change. We revisit the literature on\nclimate misinformation in social sciences and repackage it to introduce in the\ncommunity of NLP. Despite considerable work in detection of fake news, there is\nno misinformation dataset available that is specific to the domain.of climate\nchange. We try to bridge this gap by scraping and releasing articles with known\nclimate change misinformation.\n",
-        "id": "http://arxiv.org/abs/2004.14907v1",
-        "published": "2020-04-30T16:06:02Z"
+        "summary": "  Fairness in AI and machine learning systems has become a fundamental problem\nin the accountability of AI systems. While the need for accountability of AI\nmodels is near ubiquitous, healthcare in particular is a challenging field\nwhere accountability of such systems takes upon additional importance, as\ndecisions in healthcare can have life altering consequences. In this paper we\npresent preliminary results on fairness in the context of classification parity\nin healthcare. We also present some exploratory methods to improve fairness and\nchoosing appropriate classification algorithms in the context of healthcare.\n",
+        "id": "http://arxiv.org/abs/2102.03717v1",
+        "published": "2021-02-07T04:46:27Z"
     },
     {
-        "title": "Financial climate risk: a review of recent advances and key challenges",
+        "title": "Towards Smart Healthcare: Challenges and Opportunities in IoT and ML",
         "authors": [
-            "Victor Cardenas"
+            "Munshi Saifuzzaman",
+            "Tajkia Nuri Ananna"
         ],
-        "summary": "  The document provides an overview of financial climate risks. It delves into\nhow climate change impacts the global financial system, distinguishing between\nphysical risks (such as extreme weather events) and transition risks (stemming\nfrom policy changes and economic transitions towards low carbon technologies).\nThe paper underlines the complexity of accurately defining financial climate\nrisk, citing the integration of climate science with financial risk analysis as\na significant challenge. The paper highlights the pivotal role of microfinance\ninstitutions (MFIs) in addressing financial climate risk, especially for\npopulations vulnerable to climate change. The document emphasizes the\nimportance of updating risk management practices within MFIs to explicitly\ninclude climate risk assessments and suggests leveraging technology to improve\nthese practices.\n",
-        "id": "http://arxiv.org/abs/2404.07331v1",
-        "published": "2024-04-10T20:17:43Z"
+        "summary": "  The COVID-19 pandemic and other ongoing health crises have underscored the\nneed for prompt healthcare services worldwide. The traditional healthcare\nsystem, centered around hospitals and clinics, has proven inadequate in the\nface of such challenges. Intelligent wearable devices, a key part of modern\nhealthcare, leverage Internet of Things technology to collect extensive data\nrelated to the environment as well as psychological, behavioral, and physical\nhealth. However, managing the substantial data generated by these wearables and\nother IoT devices in healthcare poses a significant challenge, potentially\nimpeding decision-making processes. Recent interest has grown in applying data\nanalytics for extracting information, gaining insights, and making predictions.\nAdditionally, machine learning, known for addressing various big data and\nnetworking challenges, has seen increased implementation to enhance IoT systems\nin healthcare. This chapter focuses exclusively on exploring the hurdles\nencountered when integrating ML methods into the IoT healthcare sector. It\noffers a comprehensive summary of current research challenges and potential\nopportunities, categorized into three scenarios: IoT-based, ML-based, and the\nimplementation of machine learning methodologies in the IoT-based healthcare\nindustry. This compilation will assist future researchers, healthcare\nprofessionals, and government agencies by offering valuable insights into\nrecent smart healthcare advancements.\n",
+        "id": "http://arxiv.org/abs/2312.05530v2",
+        "published": "2024-01-12T14:55:48Z"
     },
     {
-        "title": "ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning",
+        "title": "Meta-learning in healthcare: A survey",
         "authors": [
-            "Julia Kaltenborn",
-            "Charlotte E. E. Lange",
-            "Venkatesh Ramesh",
-            "Philippe Brouillard",
-            "Yaniv Gurwicz",
-            "Chandni Nagda",
-            "Jakob Runge",
-            "Peer Nowack",
-            "David Rolnick"
+            "Alireza Rafiei",
+            "Ronald Moore",
+            "Sina Jahromi",
+            "Farshid Hajati",
+            "Rishikesan Kamaleswaran"
         ],
-        "summary": "  Climate models have been key for assessing the impact of climate change and\nsimulating future climate scenarios. The machine learning (ML) community has\ntaken an increased interest in supporting climate scientists' efforts on\nvarious tasks such as climate model emulation, downscaling, and prediction\ntasks. Many of those tasks have been addressed on datasets created with single\nclimate models. However, both the climate science and ML communities have\nsuggested that to address those tasks at scale, we need large, consistent, and\nML-ready climate model datasets. Here, we introduce ClimateSet, a dataset\ncontaining the inputs and outputs of 36 climate models from the Input4MIPs and\nCMIP6 archives. In addition, we provide a modular dataset pipeline for\nretrieving and preprocessing additional climate models and scenarios. We\nshowcase the potential of our dataset by using it as a benchmark for ML-based\nclimate model emulation. We gain new insights about the performance and\ngeneralization capabilities of the different ML models by analyzing their\nperformance across different climate models. Furthermore, the dataset can be\nused to train an ML emulator on several climate models instead of just one.\nSuch a \"super emulator\" can quickly project new climate change scenarios,\ncomplementing existing scenarios already provided to policymakers. We believe\nClimateSet will create the basis needed for the ML community to tackle\nclimate-related tasks at scale.\n",
-        "id": "http://arxiv.org/abs/2311.03721v1",
-        "published": "2023-11-07T04:55:36Z"
+        "summary": "  As a subset of machine learning, meta-learning, or learning to learn, aims at\nimproving the model's capabilities by employing prior knowledge and experience.\nA meta-learning paradigm can appropriately tackle the conventional challenges\nof traditional learning approaches, such as insufficient number of samples,\ndomain shifts, and generalization. These unique characteristics position\nmeta-learning as a suitable choice for developing influential solutions in\nvarious healthcare contexts, where the available data is often insufficient,\nand the data collection methodologies are different. This survey discusses\nmeta-learning broad applications in the healthcare domain to provide insight\ninto how and where it can address critical healthcare challenges. We first\ndescribe the theoretical foundations and pivotal methods of meta-learning. We\nthen divide the employed meta-learning approaches in the healthcare domain into\ntwo main categories of multi/single-task learning and many/few-shot learning\nand survey the studies. Finally, we highlight the current challenges in\nmeta-learning research, discuss the potential solutions, and provide future\nperspectives on meta-learning in healthcare.\n",
+        "id": "http://arxiv.org/abs/2308.02877v2",
+        "published": "2024-06-08T17:02:29Z"
     },
     {
-        "title": "Hurricanes Increase Climate Change Conversations on Twitter",
+        "title": "Privacy-preserving machine learning for healthcare: open challenges and\n  future perspectives",
         "authors": [
-            "Maddalena Torricelli",
-            "Max Falkenberg",
-            "Alessandro Galeazzi",
-            "Fabiana Zollo",
-            "Walter Quattrociocchi",
-            "Andrea Baronchelli"
+            "Alejandro Guerra-Manzanares",
+            "L. Julian Lechuga Lopez",
+            "Michail Maniatakos",
+            "Farah E. Shamout"
         ],
-        "summary": "  The public understanding of climate change plays a critical role in\ntranslating climate science into climate action. In the public discourse,\nclimate impacts are often discussed in the context of extreme weather events.\nHere, we analyse 65 million Twitter posts and 240 thousand news media articles\nrelated to 18 major hurricanes from 2010 to 2022 to clarify how hurricanes\nimpact the public discussion around climate change. First, we analyse news\ncontent and show that climate change is the most prominent non-hurricane\nspecific topic discussed by the news media in relation to hurricanes. Second,\nwe perform a comparative analysis between reliable and questionable news media\noutlets, finding that the language around climate change varies between news\nmedia providers. Finally, using geolocated data, we show that accounts in\nregions affected by hurricanes discuss climate change at a significantly higher\nrate than accounts in unaffected areas, with references to climate change\nincreasing by, on average, 80% after impact, and up to 200% for the largest\nhurricanes. Our findings demonstrate how hurricanes have a key impact on the\npublic awareness of climate change.\n",
-        "id": "http://arxiv.org/abs/2305.07529v1",
-        "published": "2023-05-12T14:46:26Z"
+        "summary": "  Machine Learning (ML) has recently shown tremendous success in modeling\nvarious healthcare prediction tasks, ranging from disease diagnosis and\nprognosis to patient treatment. Due to the sensitive nature of medical data,\nprivacy must be considered along the entire ML pipeline, from model training to\ninference. In this paper, we conduct a review of recent literature concerning\nPrivacy-Preserving Machine Learning (PPML) for healthcare. We primarily focus\non privacy-preserving training and inference-as-a-service, and perform a\ncomprehensive review of existing trends, identify challenges, and discuss\nopportunities for future research directions. The aim of this review is to\nguide the development of private and efficient ML models in healthcare, with\nthe prospects of translating research efforts into real-world settings.\n",
+        "id": "http://arxiv.org/abs/2303.15563v1",
+        "published": "2023-03-27T19:20:51Z"
     },
     {
-        "title": "Link Climate: An Interoperable Knowledge Graph Platform for Climate Data",
+        "title": "Federated Learning for Smart Healthcare: A Survey",
         "authors": [
-            "Jiantao Wu",
-            "Fabrizio Orlandi",
-            "Declan O'Sullivan",
-            "Soumyabrata Dev"
+            "Dinh C. Nguyen",
+            "Quoc-Viet Pham",
+            "Pubudu N. Pathirana",
+            "Ming Ding",
+            "Aruna Seneviratne",
+            "Zihuai Lin",
+            "Octavia A. Dobre",
+            "Won-Joo Hwang"
         ],
-        "summary": "  Climate science has become more ambitious in recent years as global awareness\nabout the environment has grown. To better understand climate, historical\nclimate (e.g. archived meteorological variables such as temperature, wind,\nwater, etc.) and climate-related data (e.g. geographical features and human\nactivities) are widely used by today's climate research to derive models for an\nexplainable climate change and its effects. However, such data sources are\noften dispersed across a multitude of disconnected data silos on the Web.\nMoreover, there is a lack of advanced climate data platforms to enable\nmulti-source heterogeneous climate data analysis, therefore, researchers must\nface a stern challenge in collecting and analyzing multi-source data. In this\npaper, we address this problem by proposing a climate knowledge graph for the\nintegration of multiple climate data and other data sources into one service,\nleveraging Web technologies (e.g. HTTP) for multi-source climate data analysis.\nThe proposed knowledge graph is primarily composed of data from the National\nOceanic and Atmospheric Administration's daily climate summaries,\nOpenStreetMap, and Wikidata, and it supports joint data queries on these widely\nused databases. This paper shows, with a use case in Ireland and the United\nKingdom, how climate researchers could benefit from this platform as it allows\nthem to easily integrate datasets from different domains and geographical\nlocations.\n",
-        "id": "http://arxiv.org/abs/2210.16050v1",
-        "published": "2022-10-28T10:52:50Z"
+        "summary": "  Recent advances in communication technologies and Internet-of-Medical-Things\nhave transformed smart healthcare enabled by artificial intelligence (AI).\nTraditionally, AI techniques require centralized data collection and processing\nthat may be infeasible in realistic healthcare scenarios due to the high\nscalability of modern healthcare networks and growing data privacy concerns.\nFederated Learning (FL), as an emerging distributed collaborative AI paradigm,\nis particularly attractive for smart healthcare, by coordinating multiple\nclients (e.g., hospitals) to perform AI training without sharing raw data.\nAccordingly, we provide a comprehensive survey on the use of FL in smart\nhealthcare. First, we present the recent advances in FL, the motivations, and\nthe requirements of using FL in smart healthcare. The recent FL designs for\nsmart healthcare are then discussed, ranging from resource-aware FL, secure and\nprivacy-aware FL to incentive FL and personalized FL. Subsequently, we provide\na state-of-the-art review on the emerging applications of FL in key healthcare\ndomains, including health data management, remote health monitoring, medical\nimaging, and COVID-19 detection. Several recent FL-based smart healthcare\nprojects are analyzed, and the key lessons learned from the survey are also\nhighlighted. Finally, we discuss interesting research challenges and possible\ndirections for future FL research in smart healthcare.\n",
+        "id": "http://arxiv.org/abs/2111.08834v1",
+        "published": "2021-11-16T23:34:22Z"
     },
     {
-        "title": "A large-scale bibliometric analysis of global climate change research\n  between 2001 and 2018",
+        "title": "A Novel Zero-Trust Machine Learning Green Architecture for Healthcare\n  IoT Cybersecurity: Review, Analysis, and Implementation",
         "authors": [
-            "Hui-Zhen Fu",
-            "Ludo Waltman"
+            "Zag ElSayed",
+            "Nelly Elsayed",
+            "Sajjad Bay"
         ],
-        "summary": "  Global climate change is attracting widespread scientific, political, and\npublic attention owing to the involvement of international initiatives such as\nthe Paris Agreement and the Intergovernmental Panel on Climate Change. We\npresent a large-scale bibliometric analysis based on approximately 120,000\nclimate change publications between 2001 and 2018 to examine how climate change\nis studied in scientific research. Our analysis provides an overview of\nscientific knowledge, shifts of research hotspots, global geographical\ndistribution of research, and focus of individual countries. In our analysis,\nwe identify five key fields in climate change research: physical sciences,\npaleoclimatology, climate-change ecology, climate technology, and climate\npolicy. We draw the following key conclusions: (1) Over the investigated time\nperiod, the focus of climate change research has shifted from understanding the\nclimate system toward climate technologies and policies, such as efficient\nenergy use and legislation. (2) There is an imbalance in scientific production\nbetween developed and developing countries. (3) Geography, national demands,\nand national strategies have been important drivers that influence the research\ninterests and concerns of researchers in different countries. Our study can be\nused by researchers and policy makers to reflect on the directions in which\nclimate change research is developing and discuss priorities for future\nresearch.\n",
-        "id": "http://arxiv.org/abs/2107.08214v1",
-        "published": "2021-07-17T10:28:28Z"
+        "summary": "  The integration of Internet of Things (IoT) devices in healthcare\napplications has revolutionized patient care, monitoring, and data management.\nThe Global IoT in Healthcare Market value is $252.2 Billion in 2023. However,\nthe rapid involvement of these devices brings information security concerns\nthat pose critical threats to patient privacy and the integrity of healthcare\ndata. This paper introduces a novel machine learning (ML) based architecture\nexplicitly designed to address and mitigate security vulnerabilities in IoT\ndevices within healthcare applications. By leveraging advanced convolution ML\narchitecture, the proposed architecture aims to proactively monitor and detect\npotential threats, ensuring the confidentiality and integrity of sensitive\nhealthcare information while minimizing the cost and increasing the portability\nspecialized for healthcare and emergency environments. The experimental results\nunderscore the accuracy of up to 93.6% for predicting various attacks based on\nthe results demonstrate a zero-day detection accuracy simulated using the\nCICIoT2023 dataset and reduces the cost by a factor of x10. The significance of\nour approach is in fortifying the security posture of IoT devices and\nmaintaining a robust implementation of trustful healthcare systems.\n",
+        "id": "http://arxiv.org/abs/2401.07368v1",
+        "published": "2024-01-14T21:01:21Z"
     },
     {
-        "title": "Towards Specialized Supercomputers for Climate Sciences: Computational\n  Requirements of the Icosahedral Nonhydrostatic Weather and Climate Model",
+        "title": "A Study on Quantum Neural Networks in Healthcare 5.0",
         "authors": [
-            "Torsten Hoefler",
-            "Alexandru Calotoiu",
-            "Anurag Dipankar",
-            "Thomas Schulthess",
-            "Xavier Lapillonne",
-            "Oliver Fuhrer"
+            "Sanjay Chakraborty"
         ],
-        "summary": "  We discuss the computational challenges and requirements for high-resolution\nclimate simulations using the Icosahedral Nonhydrostatic Weather and Climate\nModel (ICON). We define a detailed requirements model for ICON which emphasizes\nthe need for specialized supercomputers to accurately predict climate change\nimpacts and extreme weather events. Based on the requirements model, we outline\ncomputational demands for km-scale simulations, and suggests machine learning\ntechniques to enhance model accuracy and efficiency. Our findings aim to guide\nthe design of future supercomputers for advanced climate science.\n",
-        "id": "http://arxiv.org/abs/2405.13043v1",
-        "published": "2024-05-18T08:03:31Z"
+        "summary": "  The working environment in healthcare analytics is transforming with the\nemergence of healthcare 5.0 and the advancements in quantum neural networks. In\naddition to analyzing a comprehensive set of case studies, we also review\nrelevant literature from the fields of quantum computing applications and smart\nhealthcare analytics, focusing on the implications of quantum deep neural\nnetworks. This study aims to shed light on the existing research gaps regarding\nthe implications of quantum neural networks in healthcare analytics. We argue\nthat the healthcare industry is currently transitioning from automation towards\ngenuine collaboration with quantum networks, which presents new avenues for\nresearch and exploration. Specifically, this study focuses on evaluating the\nperformance of Healthcare 5.0, which involves the integration of diverse\nquantum machine learning and quantum neural network systems. This study also\nexplores a range of potential challenges and future directions for Healthcare\n5.0, particularly focusing on the integration of quantum neural networks.\n",
+        "id": "http://arxiv.org/abs/2412.06818v1",
+        "published": "2024-12-03T08:14:16Z"
     },
     {
-        "title": "Divergent Perspectives on Expert Disagreement: Preliminary Evidence from\n  Climate Science, Climate Policy, Astrophysics, and Public Opinion",
+        "title": "Towards better healthcare: What could and should be automated?",
         "authors": [
-            "James R. Beebe",
-            "Maria Baghramian",
-            "Luke O'C. Drury",
-            "Finnur Dellsen"
+            "Wolfgang Fr\u00fchwirt",
+            "Paul Duckworth"
         ],
-        "summary": "  We report the results of an exploratory study that examines the judgments of\nclimate scientists, climate policy experts, astrophysicists, and non-experts (N\n= 3,367) about the factors that contribute to the creation and persistence of\ndisagreement within climate science and astrophysics. We found that, as\ncompared to educated non-experts, climate experts believe that there is less\ndisagreement within climate science about climate change and that\nmethodological factors and personal or institutional biases play less\nsignificant roles in generating existing disagreements than is commonly\nreported or assumed. We also found that, commensurate with the greater inherent\nuncertainty and data lacunae in their field, astrophysicists working on cosmic\nrays were generally more willing to acknowledge expert disagreement, more open\nto the idea that a set of data can have multiple valid interpretations, and\ngenerally less quick to dismiss someone articulating a non-standard view as\nnon-expert, than climate scientists.\n",
-        "id": "http://arxiv.org/abs/1802.01889v1",
-        "published": "2018-02-06T11:43:03Z"
+        "summary": "  While artificial intelligence (AI) and other automation technologies might\nlead to enormous progress in healthcare, they may also have undesired\nconsequences for people working in the field. In this interdisciplinary study,\nwe capture empirical evidence of not only what healthcare work could be\nautomated, but also what should be automated. We quantitatively investigate\nthese research questions by utilizing probabilistic machine learning models\ntrained on thousands of ratings, provided by both healthcare practitioners and\nautomation experts. Based on our findings, we present an analytical tool\n(Automatability-Desirability Matrix) to support policymakers and organizational\nleaders in developing practical strategies on how to harness the positive power\nof automation technologies, while accompanying change and empowering\nstakeholders in a participatory fashion.\n",
+        "id": "http://arxiv.org/abs/1910.09444v1",
+        "published": "2019-10-21T15:23:39Z"
     },
     {
-        "title": "A Climate Change Vulnerability Assessment Framework: A Spatial Approach",
+        "title": "Fair Machine Learning in Healthcare: A Review",
         "authors": [
-            "Claudia C\u00e1ceres",
-            "Yan Li",
-            "Brian Hilton"
+            "Qizhang Feng",
+            "Mengnan Du",
+            "Na Zou",
+            "Xia Hu"
         ],
-        "summary": "  Climate change is affecting every known society, especially for small farmers\nin Low-Income Countries because they depend heavily on rain, seasonality\npatterns, and known temperature ranges. To build climate change resilient\ncommunities among rural farmers, the first step is to understand the impact of\nclimate change on the population. This paper proposes a Climate Change\nVulnerability Assessment Framework (CCVAF) to assess climate change\nvulnerabilities among rural farmers. The CCVAF framework uses information and\ncommunication technology (ICT) to assess climate change vulnerabilities among\nrural farmers by integrating both community level and individual household\nlevel indicators. The CCVAF was instantiated into a GIS-based web application\nnamed THRIVE for different decision-makers to better assess how climate change\nis affecting rural farmers in Western Honduras. Qualitative evaluation of the\nTHRIVE showed that it is an innovative and useful tool. The CCVAF contributes\nto not only the knowledge base of the climate change vulnerability assessment\nbut also the design science literature by providing guidelines to design a\nclass of climate change vulnerability assessment solutions.\n",
-        "id": "http://arxiv.org/abs/2108.09762v1",
-        "published": "2021-08-22T15:50:55Z"
+        "summary": "  The digitization of healthcare data coupled with advances in computational\ncapabilities has propelled the adoption of machine learning (ML) in healthcare.\nHowever, these methods can perpetuate or even exacerbate existing disparities,\nleading to fairness concerns such as the unequal distribution of resources and\ndiagnostic inaccuracies among different demographic groups. Addressing these\nfairness problem is paramount to prevent further entrenchment of social\ninjustices. In this survey, we analyze the intersection of fairness in machine\nlearning and healthcare disparities. We adopt a framework based on the\nprinciples of distributive justice to categorize fairness concerns into two\ndistinct classes: equal allocation and equal performance. We provide a critical\nreview of the associated fairness metrics from a machine learning standpoint\nand examine biases and mitigation strategies across the stages of the ML\nlifecycle, discussing the relationship between biases and their\ncountermeasures. The paper concludes with a discussion on the pressing\nchallenges that remain unaddressed in ensuring fairness in healthcare ML, and\nproposes several new research directions that hold promise for developing\nethical and equitable ML applications in healthcare.\n",
+        "id": "http://arxiv.org/abs/2206.14397v3",
+        "published": "2024-02-01T05:03:56Z"
     },
     {
-        "title": "Leveraging machine learning to enhance climate models: a review",
+        "title": "Review of deep learning in healthcare",
         "authors": [
-            "Ahmed Elsayed",
-            "Shrouk Wally",
-            "Islam Alkabbany",
-            "Asem Ali",
-            "Aly Farag"
+            "Hasan Hejbari Zargar",
+            "Saha Hejbari Zargar",
+            "Raziye Mehri"
         ],
-        "summary": "  Recent achievements in machine learning (Ml) have had a significant impact on\nvarious fields, including climate science. Climate modeling is very important\nand plays a crucial role in shaping the decisions of governments and\nindividuals in mitigating the impact of climate change. Climate change poses a\nserious threat to humanity, however, current climate models are limited by\ncomputational costs, uncertainties, and biases, affecting their prediction\naccuracy. The vast amount of climate data generated by satellites, radars, and\nearth system models (ESMS) poses a significant challenge. ML techniques can be\neffectively employed to analyze this data and extract valuable insights that\naid in our understanding of the earth climate. This review paper focuses on how\nml has been utilized in the last 5 years to boost the current state-of-the-art\nclimate models. We invite the ml community to join in the global effort to\naccurately model the earth climate by collaborating with other fields to\nleverage ml as a powerful tool in this endeavor.\n",
-        "id": "http://arxiv.org/abs/2311.09413v1",
-        "published": "2023-11-15T22:30:32Z"
+        "summary": "  Given the growing complexity of healthcare data over the last several years,\nusing machine learning techniques like Deep Neural Network (DNN) models has\ngained increased appeal. In order to extract hidden patterns and other valuable\ninformation from the huge quantity of health data, which traditional analytics\nare unable to do in a reasonable length of time, machine learning (ML)\ntechniques are used. Deep Learning (DL) algorithms in particular have been\nshown as potential approaches to pattern identification in healthcare systems.\nThis thought has led to the contribution of this research, which examines deep\nlearning methods used in healthcare systems via an examination of cutting-edge\nnetwork designs, applications, and market trends. To connect deep learning\nmethodologies and human healthcare interpretability, the initial objective is\nto provide in-depth insight into the deployment of deep learning models in\nhealthcare solutions. And last, to outline the current unresolved issues and\npotential directions.\n",
+        "id": "http://arxiv.org/abs/2310.00727v1",
+        "published": "2023-10-01T16:58:20Z"
     },
     {
-        "title": "RAIN: Reinforcement Algorithms for Improving Numerical Weather and\n  Climate Models",
+        "title": "Prediction of Post-Operative Renal and Pulmonary Complications Using\n  Transformers",
         "authors": [
-            "Pritthijit Nath",
-            "Henry Moss",
-            "Emily Shuckburgh",
-            "Mark Webb"
+            "Reza Shirkavand",
+            "Fei Zhang",
+            "Heng Huang"
         ],
-        "summary": "  This study explores integrating reinforcement learning (RL) with idealised\nclimate models to address key parameterisation challenges in climate science.\nCurrent climate models rely on complex mathematical parameterisations to\nrepresent sub-grid scale processes, which can introduce substantial\nuncertainties. RL offers capabilities to enhance these parameterisation\nschemes, including direct interaction, handling sparse or delayed feedback,\ncontinuous online learning, and long-term optimisation. We evaluate the\nperformance of eight RL algorithms on two idealised environments: one for\ntemperature bias correction, another for radiative-convective equilibrium (RCE)\nimitating real-world computational constraints. Results show different RL\napproaches excel in different climate scenarios with exploration algorithms\nperforming better in bias correction, while exploitation algorithms proving\nmore effective for RCE. These findings support the potential of RL-based\nparameterisation schemes to be integrated into global climate models, improving\naccuracy and efficiency in capturing complex climate dynamics. Overall, this\nwork represents an important first step towards leveraging RL to enhance\nclimate model accuracy, critical for improving climate understanding and\npredictions. Code accessible at https://github.com/p3jitnath/climate-rl.\n",
-        "id": "http://arxiv.org/abs/2408.16118v2",
-        "published": "2024-10-10T23:24:01Z"
+        "summary": "  Postoperative complications pose a significant challenge in the healthcare\nindustry, resulting in elevated healthcare expenses and prolonged hospital\nstays, and in rare instances, patient mortality. To improve patient outcomes\nand reduce healthcare costs, healthcare providers rely on various perioperative\nrisk scores to guide clinical decisions and prioritize care. In recent years,\nmachine learning techniques have shown promise in predicting postoperative\ncomplications and fatality, with deep learning models achieving remarkable\nsuccess in healthcare applications. However, research on the application of\ndeep learning models to intra-operative anesthesia management data is limited.\nIn this paper, we evaluate the performance of transformer-based models in\npredicting postoperative acute renal failure, postoperative pulmonary\ncomplications, and postoperative in-hospital mortality. We compare our method's\nperformance with state-of-the-art tabular data prediction models, including\ngradient boosting trees and sequential attention models, on a clinical dataset.\nOur results demonstrate that transformer-based models can achieve superior\nperformance in predicting postoperative complications and outperform\ntraditional machine learning models. This work highlights the potential of deep\nlearning techniques, specifically transformer-based models, in revolutionizing\nthe healthcare industry's approach to postoperative care.\n",
+        "id": "http://arxiv.org/abs/2306.00698v2",
+        "published": "2023-06-06T16:12:01Z"
     },
     {
-        "title": "A Survey on Exploratory Spatiotemporal Visual Analytics Approaches for\n  Climate Science",
+        "title": "Machine Learning for Everyone: Simplifying Healthcare Analytics with\n  BigQuery ML",
         "authors": [
-            "Abdullah-Al-Raihan Nayeem",
-            "Dongyun Han",
-            "Huikyo Lee",
-            "Donghoon Kim",
-            "Daniel Feldman",
-            "William J. Tolone",
-            "Daniel Crichton",
-            "Isaac Cho"
+            "Mohammad Amir Salari",
+            "Bahareh Rahmani"
         ],
-        "summary": "  Climate science produces a wealth of complex, high-dimensional, multivariate\ndata from observations and numerical models. These data are critical for\nunderstanding climate changes and their socioeconomic impacts. Climate\nscientists are continuously evaluating output from numerical models against\nobservations. This model evaluation process provides useful guidance to improve\nthe numerical models and subsequent climate projections. Exploratory visual\nanalytics systems possess the potential to significantly reduce the burden on\nscientists for traditional spatiotemporal analyses. In addition, technology and\ninfrastructure advancements are further facilitating broader access to climate\ndata. Climate scientists today can access climate data in distributed analytic\nenvironments and render exploratory visualizations for analyses. Efforts are\nongoing to optimize the computational efficiency of spatiotemporal analyses to\nenable efficient exploration of massive data. These advances present further\nopportunities for the visualization community to innovate over the full\nlandscape of challenges and requirements raised by scientists. In this report,\nwe provide a comprehensive review of the challenges, requirements, and current\napproaches for exploratory spatiotemporal visual analytics solutions for\nclimate data. We categorize the visual analytic techniques, systems, and tools\npresented in the relevant literature based on task requirements, data sources,\nstatistical techniques, interaction methods, visualization techniques,\nperformance evaluation methods, and application domains. Moreover, our analytic\nreview identifies trends, limitations, and key challenges in visual analysis.\nThis report will advance future research activities in climate visualizations\nand enables the end-users of climate data to identify effective climate change\nmitigation strategies.\n",
-        "id": "http://arxiv.org/abs/2407.21199v1",
-        "published": "2024-07-30T21:23:14Z"
+        "summary": "  Machine learning (ML) transforms healthcare by enabling predictive analytics,\npersonalized treatments, and improved patient outcomes. However, traditional ML\nworkflows often require specialized skills, infrastructure, and resources,\nlimiting accessibility for many healthcare professionals. This paper explores\nhow BigQuery ML Cloud service helps healthcare researchers and data analysts to\nbuild and deploy models using SQL, without need for advanced ML knowledge. Our\nresults demonstrate that the Boosted Tree model achieved the highest\nperformance among the three models making it highly effective for diabetes\nprediction. BigQuery ML directly integrates predictive analytics into their\nworkflows to inform decision-making and support patient care. We reveal this\ncapability through a case study on diabetes prediction using the Diabetes\nHealth Indicators Dataset. Our study underscores BigQuery ML's role in\ndemocratizing machine learning, enabling faster, scalable, and efficient\npredictive analytics that can directly enhance healthcare decision-making\nprocesses. This study aims to bridge the gap between advanced machine learning\nand practical healthcare analytics by providing detailed insights into BigQuery\nML's capabilities. By demonstrating its utility in a real-world case study, we\nhighlight its potential to simplify complex workflows and expand access to\npredictive tools for a broader audience of healthcare professionals.\n",
+        "id": "http://arxiv.org/abs/2502.07026v2",
+        "published": "2025-02-21T21:02:55Z"
     },
     {
-        "title": "Climate Change and Open Science",
+        "title": "On Healthcare Robots: Concepts, definitions, and considerations for\n  healthcare robot governance",
         "authors": [
-            "Ian Percival"
+            "Eduard Fosch-Villaronga",
+            "Hadassah Drukarch"
         ],
-        "summary": "  Obtaining reliable answers to the major scientific questions raised by\nclimate change in time to take appropriate action gives added urgency to the\nopen access program.\n",
-        "id": "http://arxiv.org/abs/1308.5533v1",
-        "published": "2013-08-26T10:13:00Z"
+        "summary": "  Although healthcare is a remarkably sensitive domain of application, and\nsystems that exert direct control over the world can cause harm in a way that\nhumans cannot necessarily correct or oversee, it is still unclear whether and\nhow healthcare robots are currently regulated or should be regulated. Existing\nregulations are primarily unprepared to provide guidance for such a rapidly\nevolving field and accommodate devices that rely on machine learning and AI.\nMoreover, the field of healthcare robotics is very rich and extensive, but it\nis still very much scattered and unclear in terms of definitions, medical and\ntechnical classifications, product characteristics, purpose, and intended use.\nAs a result, these devices often navigate between the medical device regulation\nor other non-medical norms, such as the ISO personal care standard. Before\nregulating the field of healthcare robots, it is therefore essential to map the\nmajor state-of-the-art developments in healthcare robotics, their capabilities\nand applications, and the challenges we face as a result of their integration\nwithin the healthcare environment.\n  This contribution fills in this gap and lack of clarity currently experienced\nwithin healthcare robotics and its governance by providing a structured\noverview of and further elaboration on the main categories now established,\ntheir intended purpose, use, and main characteristics. We explicitly focus on\nsurgical, assistive, and service robots to rightfully match the definition of\nhealthcare as the organized provision of medical care to individuals, including\nefforts to maintain, treat, or restore physical, mental, or emotional\nwell-being. We complement these findings with policy recommendations to help\npolicymakers unravel an optimal regulatory framing for healthcare robot\ntechnologies\n",
+        "id": "http://arxiv.org/abs/2106.03468v1",
+        "published": "2021-06-07T09:51:02Z"
     },
     {
-        "title": "Theoretical tools for understanding the climate crisis from Hasselmann's\n  program and beyond",
+        "title": "A multiagent based framework secured with layered SVM-based IDS for\n  remote healthcare systems",
         "authors": [
-            "Valerio Lucarini",
-            "Micka\u00ebl Chekroun"
+            "Mohammadreza Begli",
+            "Farnaz Derakhshan"
         ],
-        "summary": "  Klaus Hasselmann's revolutionary intuition in climate science was to take\nadvantage of the stochasticity associated with fast weather processes to probe\nthe slow dynamics of the climate system. This has led to fundamentally new ways\nto study the response of climate models to perturbations, and to perform\ndetection and attribution for climate change signals. Hasselmann's program has\nbeen extremely influential in climate science and beyond. We first summarise\nthe main aspects of such a program using modern concepts and tools of\nstatistical physics and applied mathematics. We then provide an overview of\nsome promising scientific perspectives that might better clarify the science\nbehind the climate crisis and that stem from Hasselmann's ideas. We show how to\nperform rigorous model reduction by constructing parametrizations in systems\nthat do not necessarily feature a time-scale separation between unresolved and\nresolved processes. We propose a general framework for explaining the\nrelationship between climate variability and climate change, and for performing\nclimate change projections. This leads us seamlessly to explain some key\ngeneral aspects of climatic tipping points. Finally, we show that response\ntheory provides a solid framework supporting optimal fingerprinting methods for\ndetection and attribution.\n",
-        "id": "http://arxiv.org/abs/2303.12009v3",
-        "published": "2023-09-07T12:37:31Z"
+        "summary": "  Since the number of elderly and patients who are in hospitals and healthcare\ncenters are growing, providing efficient remote healthcare services seems very\nimportant. Currently, most such systems benefit from the distribution and\nautonomy features of multiagent systems and the structure of wireless sensor\nnetworks. On the one hand, securing the data of remote healthcare systems is\none of the most significant concerns; particularly recent types of research\nabout the security of remote healthcare systems keep them secure from\neavesdropping and data modification. On the other hand, existing remote\nhealthcare systems are still vulnerable against other common attacks of\nhealthcare networks such as Denial of Service (DoS) and User to Root (U2R)\nattacks, because they are managed remotely and based on the Internet.\nTherefore, in this paper, we propose a secure framework for remote healthcare\nsystems that consists of two phases. First, we design a healthcare system base\non multiagent technology to collect data from a sensor network. Then, in the\nsecond phase, a layered architecture of intrusion detection systems that uses\nSupport Vector Machine to learn the behavior of network traffic is applied.\nBased on our framework, we implement a secure remote healthcare system and\nevaluate this system against the frequent attacks of healthcare networks such\nas Smurf, Buffer overflow, Neptune, and Pod attacks. In the end, evaluation\nparameters of the layered architecture of intrusion detection systems prove the\nefficiency and correctness of our proposed framework.\n",
+        "id": "http://arxiv.org/abs/2104.06498v1",
+        "published": "2021-04-13T20:34:38Z"
     },
     {
-        "title": "How relevant is climate change research for climate change policy? An\n  empirical analysis based on Overton data",
+        "title": "A Secure Healthcare 5.0 System Based on Blockchain Technology Entangled\n  with Federated Learning Technique",
         "authors": [
-            "Lutz Bornmann",
-            "Robin Haunschild",
-            "Kevin Boyack",
-            "Werner Marx",
-            "Jan C. Minx"
+            "Abdur Rehman",
+            "Sagheer Abbas",
+            "M. A. Khan",
+            "Taher M. Ghazal",
+            "Khan Muhammad Adnan",
+            "Amir Mosavi"
         ],
-        "summary": "  Climate change is an ongoing topic in nearly all areas of society since many\nyears. A discussion of climate change without referring to scientific results\nis not imaginable. This is especially the case for policies since action on the\nmacro scale is required to avoid costly consequences for society. In this\nstudy, we deal with the question of how research on climate change and policy\nare connected. In 2019, the new Overton database of policy documents was\nreleased including links to research papers that are cited by policy documents.\nThe use of results and recommendations from research on climate change might be\nreflected in citations of scientific papers in policy documents. Although we\nsuspect a lot of uncertainty related to the coverage of policy documents in\nOverton, there seems to be an impact of international climate policy cycles on\npolicy document publication. We observe local peaks in climate policy documents\naround major decisions in international climate diplomacy. Our results point\nout that IGOs and think tanks -- with a focus on climate change -- have\npublished more climate change policy documents than expected. We found that\nclimate change papers that are cited in climate change policy documents\nreceived significantly more citations on average than climate change papers\nthat are not cited in these documents. Both areas of society (science and\npolicy) focus on similar climate change research fields: biology, earth\nsciences, engineering, and disease sciences. Based on these and other empirical\nresults in this study, we propose a simple model of policy impact considering a\nchain of different document types: the chain starts with scientific assessment\nreports (systematic reviews) that lead via science communication documents\n(policy briefs, policy reports or plain language summaries) and government\nreports to legislative documents.\n",
-        "id": "http://arxiv.org/abs/2203.05358v1",
-        "published": "2022-03-10T13:18:11Z"
+        "summary": "  In recent years, the global Internet of Medical Things (IoMT) industry has\nevolved at a tremendous speed. Security and privacy are key concerns on the\nIoMT, owing to the huge scale and deployment of IoMT networks. Machine learning\n(ML) and blockchain (BC) technologies have significantly enhanced the\ncapabilities and facilities of healthcare 5.0, spawning a new area known as\n\"Smart Healthcare.\" By identifying concerns early, a smart healthcare system\ncan help avoid long-term damage. This will enhance the quality of life for\npatients while reducing their stress and healthcare costs. The IoMT enables a\nrange of functionalities in the field of information technology, one of which\nis smart and interactive health care. However, combining medical data into a\nsingle storage location to train a powerful machine learning model raises\nconcerns about privacy, ownership, and compliance with greater concentration.\nFederated learning (FL) overcomes the preceding difficulties by utilizing a\ncentralized aggregate server to disseminate a global learning model.\nSimultaneously, the local participant keeps control of patient information,\nassuring data confidentiality and security. This article conducts a\ncomprehensive analysis of the findings on blockchain technology entangled with\nfederated learning in healthcare. 5.0. The purpose of this study is to\nconstruct a secure health monitoring system in healthcare 5.0 by utilizing a\nblockchain technology and Intrusion Detection System (IDS) to detect any\nmalicious activity in a healthcare network and enables physicians to monitor\npatients through medical sensors and take necessary measures periodically by\npredicting diseases.\n",
+        "id": "http://arxiv.org/abs/2209.09642v1",
+        "published": "2022-09-16T23:25:42Z"
     },
     {
-        "title": "CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims",
+        "title": "Multimodal Federated Learning in Healthcare: a Review",
         "authors": [
-            "Thomas Diggelmann",
-            "Jordan Boyd-Graber",
-            "Jannis Bulian",
-            "Massimiliano Ciaramita",
-            "Markus Leippold"
+            "Jacob Thrasher",
+            "Alina Devkota",
+            "Prasiddha Siwakotai",
+            "Rohit Chivukula",
+            "Pranav Poudel",
+            "Chaunbo Hu",
+            "Binod Bhattarai",
+            "Prashnna Gyawali"
         ],
-        "summary": "  We introduce CLIMATE-FEVER, a new publicly available dataset for verification\nof climate change-related claims. By providing a dataset for the research\ncommunity, we aim to facilitate and encourage work on improving algorithms for\nretrieving evidential support for climate-specific claims, addressing the\nunderlying language understanding challenges, and ultimately help alleviate the\nimpact of misinformation on climate change. We adapt the methodology of FEVER\n[1], the largest dataset of artificially designed claims, to real-life claims\ncollected from the Internet. While during this process, we could rely on the\nexpertise of renowned climate scientists, it turned out to be no easy task. We\ndiscuss the surprising, subtle complexity of modeling real-world\nclimate-related claims within the \\textsc{fever} framework, which we believe\nprovides a valuable challenge for general natural language understanding. We\nhope that our work will mark the beginning of a new exciting long-term joint\neffort by the climate science and AI community.\n",
-        "id": "http://arxiv.org/abs/2012.00614v2",
-        "published": "2021-01-02T16:07:48Z"
+        "summary": "  Recent advancements in multimodal machine learning have empowered the\ndevelopment of accurate and robust AI systems in the medical domain, especially\nwithin centralized database systems. Simultaneously, Federated Learning (FL)\nhas progressed, providing a decentralized mechanism where data need not be\nconsolidated, thereby enhancing the privacy and security of sensitive\nhealthcare data. The integration of these two concepts supports the ongoing\nprogress of multimodal learning in healthcare while ensuring the security and\nprivacy of patient records within local data-holding agencies. This paper\noffers a concise overview of the significance of FL in healthcare and outlines\nthe current state-of-the-art approaches to Multimodal Federated Learning (MMFL)\nwithin the healthcare domain. It comprehensively examines the existing\nchallenges in the field, shedding light on the limitations of present models.\nFinally, the paper outlines potential directions for future advancements in the\nfield, aiming to bridge the gap between cutting-edge AI technology and the\nimperative need for patient data privacy in healthcare applications.\n",
+        "id": "http://arxiv.org/abs/2310.09650v2",
+        "published": "2024-02-27T17:16:59Z"
     },
     {
-        "title": "Enhancing LLMs for Governance with Human Oversight: Evaluating and\n  Aligning LLMs on Expert Classification of Climate Misinformation for\n  Detecting False or Misleading Claims about Climate Change",
+        "title": "An Overview and Case Study of the Clinical AI Model Development Life\n  Cycle for Healthcare Systems",
         "authors": [
-            "Mowafak Allaham",
-            "Ayse D. Lokmanoglu",
-            "P. Sol Hart",
-            "Erik C. Nisbet"
+            "Charles Lu",
+            "Julia Strout",
+            "Romane Gauriau",
+            "Brad Wright",
+            "Fabiola Bezerra De Carvalho Marcruz",
+            "Varun Buch",
+            "Katherine Andriole"
         ],
-        "summary": "  Climate misinformation is a problem that has the potential to be\nsubstantially aggravated by the development of Large Language Models (LLMs). In\nthis study we evaluate the potential for LLMs to be part of the solution for\nmitigating online dis/misinformation rather than the problem. Employing a\npublic expert annotated dataset and a curated sample of social media content we\nevaluate the performance of proprietary vs. open source LLMs on climate\nmisinformation classification task, comparing them to existing climate-focused\ncomputer-assisted tools and expert assessments. Results show (1) open-source\nmodels substantially under-perform in classifying climate misinformation\ncompared to proprietary models, (2) existing climate-focused computer-assisted\ntools leveraging expert-annotated datasets continues to outperform many of\nproprietary models, including GPT-4o, and (3) demonstrate the efficacy and\ngeneralizability of fine-tuning GPT-3.5-turbo on expert annotated dataset in\nclassifying claims about climate change at the equivalency of climate change\nexperts with over 20 years of experience in climate communication. These\nfindings highlight 1) the importance of incorporating human-oversight, such as\nincorporating expert-annotated datasets in training LLMs, for governance tasks\nthat require subject-matter expertise like classifying climate misinformation,\nand 2) the potential for LLMs in facilitating civil society organizations to\nengage in various governance tasks such as classifying false or misleading\nclaims in domains beyond climate change such as politics and health science.\n",
-        "id": "http://arxiv.org/abs/2501.13802v2",
-        "published": "2025-03-09T16:39:06Z"
+        "summary": "  Healthcare is one of the most promising areas for machine learning models to\nmake a positive impact. However, successful adoption of AI-based systems in\nhealthcare depends on engaging and educating stakeholders from diverse\nbackgrounds about the development process of AI models. We present a broadly\naccessible overview of the development life cycle of clinical AI models that is\ngeneral enough to be adapted to most machine learning projects, and then give\nan in-depth case study of the development process of a deep learning based\nsystem to detect aortic aneurysms in Computed Tomography (CT) exams. We hope\nother healthcare institutions and clinical practitioners find the insights we\nshare about the development process useful in informing their own model\ndevelopment efforts and to increase the likelihood of successful deployment and\nintegration of AI in healthcare.\n",
+        "id": "http://arxiv.org/abs/2003.07678v3",
+        "published": "2020-03-26T21:03:35Z"
     }
 ]
