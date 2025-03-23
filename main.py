@@ -327,6 +327,8 @@ def extract_keywords(text,n=5):
 
 def setup_device():
     device='mps' if torch.backends.mps.is_available() else 'cpu'
+    if device == 'mps':
+        torch.mps.empty_cache()
     print(f'Device is set to {device}')
     return device
 
