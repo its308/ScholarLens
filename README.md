@@ -2,6 +2,11 @@
 
 ScholarLens is an intelligent research assistant that helps researchers explore academic papers and get AI-powered insights about scientific topics. This tool combines state-of-the-art AI technologies to make research more efficient and accessible.
 
+---
+
+Project Demo:[https://youtu.be/eKJrDBX-v30]
+---
+
 ##  Features
 
 - **Smart Paper Search**: Find relevant academic papers from ArXiv based on your research topics with real-time status updates
