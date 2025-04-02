@@ -4,7 +4,7 @@ ScholarLens is an intelligent research assistant that helps researchers explore 
 
 ---
 
-Project Demo:[https://youtu.be/eKJrDBX-v30]
+Project Demo:[https://youtu.be/pPZy_s9YMuo]
 ---
 
 ##  Features
